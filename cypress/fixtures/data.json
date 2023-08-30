@@ -1,0 +1,8 @@
+{
+  "loginLink" : "http://magento-ce-2.4.5-p1.com/customer/account/login",
+  "accountLink" : "http://magento-ce-2.4.5-p1.com/customer/account",
+  "url": "http://magento-ce-2.4.5-p1.com/",
+  "name": "Abdul Basit",
+  "email": "ab.khatri@hotmail.com",
+  "password": "cypress1A"
+}
