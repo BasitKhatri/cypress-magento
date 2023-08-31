@@ -5,8 +5,8 @@ class LoginPage {
     get loginButton() { return cy.get('.form-login .actions-toolbar .primary#send2'); }
 
     // Actions
-    open(loginUrl) {
-        cy.visit(loginUrl);
+    open() {
+        cy.visit('/customer/account/login');
     }
 
     login(username, password) {

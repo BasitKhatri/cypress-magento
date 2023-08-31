@@ -1,5 +1,16 @@
+<h1>Pre requisite</h1>
+<ul>
+    <li>Disable captcha(Test instances only)</li>
+    <li>change baseUrl in cypress.config.js</li>
+    <li>change fixtures/data.js as per your need</li>
+</ul>
+
 <h1>START</h1>
-yarn run cypress open
+<b>To Open:</b>  yarn run cypress open <br/>
+<b>To Run :</b>  yarn run cypress run
+
+
+
 
 <h1>Basic Syntax</h1>
 <pre>
