@@ -3,6 +3,7 @@
     <li>Disable captcha(Test instances only)</li>
     <li>change baseUrl in cypress.config.js</li>
     <li>change fixtures/data.js as per your need</li>
+    <li>Place an order with the customer in data.json(for address save)</li>
 </ul>
 
 <h1>START</h1>

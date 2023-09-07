@@ -2,5 +2,6 @@
   "name": "Abdul Basit",
   "email": "ab.khatri@hotmail.com",
   "password": "cypress1A",
-  "domain" : "@mcetest.com"
+  "domain" : "@mcetest.com",
+  "simpleProductUrl" : "/simple-product-27.html"
 }

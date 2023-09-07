@@ -10,9 +10,14 @@ class LoginPage {
     }
 
     login(username, password) {
+        cy.visit('/customer/account/login')
         this.usernameInput.type(username);
         this.passwordInput.type(password);
         this.loginButton.click();
+    }
+
+    logout(){
+        cy.visit('/customer/account/logout')
     }
 }
 
